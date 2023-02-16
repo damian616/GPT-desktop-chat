@@ -2,7 +2,7 @@ import tkinter as tk
 from tkinter import ttk
 import openai
 
-# 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
+
 
 def get_api_key():
     # create a new window to prompt for API key
